@@ -1,5 +1,7 @@
 # WooCommerce Birthday Field
 
+![Alt text](img/cover.png?raw=true "cover")
+
 Tags: woocommerce, mailchimp, birthday
 
 ## Features
