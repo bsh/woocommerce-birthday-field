@@ -11,3 +11,5 @@ Tags: woocommerce, mailchimp, birthday
 - Show birthday on the order review page.
 - Validate the birthday field.
 - Supports MC4WP and sync birthday via MailChimp Audience field.
+
+[Cover image by Kentaur Graphics](https://kentaurgraphics.hu/en/)
