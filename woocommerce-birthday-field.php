@@ -5,7 +5,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WooCommerce Birthday Field
- * Plugin URI:        #
+ * Plugin URI:        https://github.com/bsh/woocommerce-birthday-field
  * Description:       WooCommerce Birthday Field
  * Version:           1.0.0
  * Author:            Laszlo Kovacs
