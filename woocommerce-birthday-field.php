@@ -166,7 +166,7 @@ if (! class_exists('WoocommerceBirthdayFiled')) {
          */
         public function birth_day_checkout_field_display_admin_order_meta($order)
         {
-            echo '<p><strong>'.__('Birthday', $this->plugin_name).':</strong> '.get_post_meta($order->id, 'birthday_field', true).'</p>';
+            echo '<p><strong>'.__('Birthday', $this->plugin_name).':</strong> '.get_post_meta($order->get_id(), 'birthday_field', true).'</p>';
         }
 
         /**
